@@ -1,7 +1,7 @@
 # Batalha-Naval-em-C
 Batalha Naval em C - Trabalho final do curso de Introdução à Programação para Engenharias / EESC - USP
-Desenvolvido por/Developed by Pedro Pignanelli e/and Luís Vianna 2020.
-  
+Desenvolvido por Pedro Pignanelli e Luís Vianna, 2020.
+
  Este programa é um jogo de Batalha Naval, programado na Linguagem C, para ser rodado no terminal de comandos do dispositivo.
  A atividade constitui o trabalho final da matéria "Introdução à Programação para Engenharias", da graduação em Engenharia Elétrica/2020 - EESC/USP.
  
