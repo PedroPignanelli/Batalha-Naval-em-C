@@ -9,4 +9,4 @@ Desenvolvido por Pedro Pignanelli e Luís Vianna, 2020.
  
  This program is a Battlesip / Sea Battle game, developed in C Programming Language, intended to be played from the computer terminal (command   prompt).
  It was elaborated as a semester conclusion activity to the "Introduction to Programming for Engineering" subject, in the Electrical Engineering/2020 graduation course, in the São Carlos Engineering School, University of São Paulo (EESC - USP).
-We know the code can be further enhanced in many ways. Be free to do that if you want!
+ We know the code can be further enhanced in many ways. Be free to do that if you want!
