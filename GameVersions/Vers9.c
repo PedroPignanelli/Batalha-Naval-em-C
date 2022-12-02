@@ -649,5 +649,5 @@ void layout_menu(){ //Função responsável por printar a tela do menu inicial
     printf ("\n\t\t\t\t\t\t\t|  [4] Ajuda (comandos in game) |");
     printf ("\n\t\t\t\t\t\t\t|  [5] Sair                     |");
     printf ("\n\t\t\t\t\t\t\t|_______________________________|\n");
-    printf ("\n\t\t\t\t\t\t (Obs.: Estes comenados sao especificos para o MENU)\n");
+    printf ("\n\t\t\t\t\t\t (Obs.: Estes comandos sao especificos para o MENU)\n");
 }
